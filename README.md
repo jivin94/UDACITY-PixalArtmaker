@@ -1,17 +1,13 @@
-# Pixel Art Maker Project
+udacity-intro-to-programming-pixel-art-maker
+To run the Pixel Art Maker open index.html
 
-## Table of Contents
+Udacity description of the project:
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+You'll be given starter code, including HTML and CSS, to build the application. You'll write JavaScript code that lets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
-## Instructions
+Your users should be able to:
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# UDACITY-PixalArtmaker
+Dynamically set the size of the table as an N by M grid.
+Choose a color.
+Click a cell in the grid to fill that cell with the chosen color.
+Your primary task is to implement the makeGrid() function, that dynamically creates a grid that the user can interact with.
